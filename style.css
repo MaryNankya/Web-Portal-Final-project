@@ -36,7 +36,10 @@ body {
 .profile_name {
   float: left;
   padding-left: 2cm;
-  /* Add the styles here */
+  color:bisque;
+  font-size: 30px;
+  
+  /* Added the styles here */
 }
 
 .profile_name .contact_info {
